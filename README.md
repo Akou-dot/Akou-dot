@@ -25,15 +25,16 @@ $ cat interets.txt
 
 $ ls projets/
 > home-lab/  cybersecurity/
+```
 
 
 ## 🐧 Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Homelab](https://img.shields.io/badge/HomeLab-FF6C37?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Python](https://img.shields.io/badge/python-24292e?style=for-the-badge&logo=python&logoColor=3776AB)
+![Linux](https://img.shields.io/badge/Linux-24292e?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-24292e?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-24292e?style=for-the-badge&logo=git&logoColor=F05032)
+![Homelab](https://img.shields.io/badge/HomeLab-24292e?style=for-the-badge&logo=homeassistant&logoColor=18BCF2)
 
 ## 📫 Contact
 
