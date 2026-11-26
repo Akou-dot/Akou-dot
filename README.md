@@ -36,6 +36,5 @@ $ ls projets/
 ![Git](https://img.shields.io/badge/Git-24292e?style=for-the-badge&logo=git&logoColor=F05032)
 ![Homelab](https://img.shields.io/badge/HomeLab-24292e?style=for-the-badge&logo=homeassistant&logoColor=18BCF2)
 
-## 📫 Contact
 
-`email` : valentin.da-silva@epitech.eu
+[📨 M’écrire](mailto:valentin.da-silva@epitech.eu)
