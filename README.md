@@ -1,7 +1,7 @@
 <h1 align="center">Valentin Da Silva</h1>
 
 <p align="center">
-  <b>Cybersecurity &amp; infrastructure student</b> · Epitech Moulins · Bachelor 2025–2028
+  <b>Cybersecurity &amp; infrastructure student</b> · Epitech · Bachelor 2025–2028
 </p>
 
 <p align="center">
@@ -35,6 +35,7 @@ $ ls projects/
   <img src="https://img.shields.io/badge/Tailwind_CSS-171a20?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Cloudflare-171a20?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
 </p>
+
 ---
 
 ### 01 — About
