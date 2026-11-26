@@ -1,14 +1,14 @@
-# `$ ./profile`
+# 🖥️ `valentin@akoudev:~$ ./profile`
 
 ```bash
-$ whoami
+valentin@akoudev:~$ whoami
 Valentin Da Silva — 2nd-year cybersecurity Bachelor student at Epitech Moulins
 
-$ cat interests.txt
-> Linux · Networking · Cybersecurity · Infrastructure
+valentin@akoudev:~$ cat interests.txt
+Linux · Networking · Cybersecurity · Infrastructure
 
-$ ls projects/
-> homelab/  cybersecurity/  web/
+valentin@akoudev:~$ ls projects/
+homelab/  cybersecurity/  web/
 ```
 
 <a href="https://akoudev.fr"><img src="https://img.shields.io/badge/Website-akoudev.fr-171a20?style=for-the-badge&logo=googlechrome&logoColor=F9AB00" alt="Website: akoudev.fr" /></a>
