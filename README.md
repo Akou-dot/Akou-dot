@@ -71,9 +71,3 @@ solving infrastructure problems and learning new technologies.
 
 🏎️ Motorsport · 🛡️ Cybersecurity · 🏀 Basketball
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akou-dot&show_icons=true&hide_border=true&bg_color=0f1115&title_color=ff5247&icon_color=e10600&text_color=c3c8d0" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akou-dot&layout=compact&hide_border=true&bg_color=0f1115&title_color=ff5247&text_color=c3c8d0" height="165" alt="Top languages" />
-</p>
