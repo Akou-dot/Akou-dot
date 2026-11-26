@@ -19,7 +19,22 @@ $ cat interests.txt
 $ ls projects/
 > homelab/  cybersecurity/  web/
 ```
-
+<p>
+  <img src="https://img.shields.io/badge/Linux-171a20?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-171a20?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+  <img src="https://img.shields.io/badge/Proxmox-171a20?style=for-the-badge&logo=proxmox&logoColor=E57000" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Docker-171a20?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-171a20?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Burp_Suite-171a20?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-171a20?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/TryHackMe-F2F4F7?style=for-the-badge&logo=tryhackme&logoColor=212C42" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/Python-171a20?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-171a20?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/FastAPI-171a20?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-171a20?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-171a20?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Cloudflare-171a20?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
+</p>
 ---
 
 ### 01 — About
@@ -29,30 +44,19 @@ solving infrastructure problems and learning new technologies.
 
 ### 02 — Skills
 
-| Sector | Area | In practice |
-|---|---|---|
-| **S1** | Linux / Bash | Server administration, shell scripting, automation |
-| **S2** | Networking / Cybersecurity | Design, addressing, segmentation, monitoring, web pentesting |
-| **S3** | Python / JavaScript | Tooling, data processing, machine learning, APIs |
-| **S4** | HTML / CSS / Tailwind | Responsive web interfaces |
+> 🐧 **01 · Linux & Bash**<br>
+> Server administration · Shell scripting · Automation
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-171a20?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-171a20?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash" />
-  <img src="https://img.shields.io/badge/Proxmox-171a20?style=flat-square&logo=proxmox&logoColor=E57000" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/Docker-171a20?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-171a20?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Burp_Suite-171a20?style=flat-square&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-171a20?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
-  <img src="https://img.shields.io/badge/TryHackMe-F2F4F7?style=flat-square&logo=tryhackme&logoColor=212C42" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/Python-171a20?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-171a20?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Express-F2F4F7?style=flat-square&logo=express&logoColor=000000" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-171a20?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-171a20?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-171a20?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Cloudflare-171a20?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
-</p>
+> 🛡️ **02 · Networking & Cybersecurity**<br>
+> Design · Addressing · Segmentation · Monitoring · Web pentesting
+
+> 🐍 **03 · Python & JavaScript**<br>
+> Tooling · Data processing · Machine learning · APIs
+
+> 🎨 **04 · HTML, CSS & Tailwind**<br>
+> Responsive web interfaces
+
+
 
 ### 03 — Projects
 
