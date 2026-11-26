@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+
 
 ```bash
 $ whoami
@@ -26,7 +26,6 @@ $ cat interets.txt
 $ ls projets/
 > home-lab/  cybersecurity/
 
-</div>
 
 ## 🐧 Stack
 
