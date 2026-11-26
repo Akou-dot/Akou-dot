@@ -11,7 +11,8 @@ $ ls projects/
 > homelab/  cybersecurity/  web/
 ```
 
-🌐 [https://akoudev.fr](https://akoudev.fr) · ✉️ [valentin.da-silva@epitech.eu](mailto:valentin.da-silva@epitech.eu)
+<a href="https://akoudev.fr"><img src="https://img.shields.io/badge/Website-akoudev.fr-171a20?style=for-the-badge&logo=googlechrome&logoColor=F9AB00" alt="Website: akoudev.fr" /></a>
+<a href="mailto:valentin.da-silva@epitech.eu"><img src="https://img.shields.io/badge/Email-Get_in_touch-171a20?style=for-the-badge&logo=maildotru&logoColor=EA4335" alt="Email: valentin.da-silva@epitech.eu" /></a>
 
 <p>
   <img src="https://img.shields.io/badge/Linux-171a20?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
