@@ -11,7 +11,7 @@ $ ls projects/
 > homelab/  cybersecurity/  web/
 ```
 
-🌐 [$ open https://akoudev.fr](https://akoudev.fr) · ✉️ [$ mail valentin.da-silva@epitech.eu](mailto:valentin.da-silva@epitech.eu)
+🌐 [https://akoudev.fr](https://akoudev.fr) · ✉️ [valentin.da-silva@epitech.eu](mailto:valentin.da-silva@epitech.eu)
 
 <p>
   <img src="https://img.shields.io/badge/Linux-171a20?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
