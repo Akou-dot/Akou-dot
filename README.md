@@ -58,9 +58,14 @@ solving infrastructure problems and learning new technologies.
 
 **Personal · infra & cybersecurity**
 
-- 🖥️ **Homelab**: self-hosted services in VMs and containers on Proxmox
-- 🌐 **Domain name**: DNS administration of [akoudev.fr](https://akoudev.fr)
-- 🎯 **Hack The Box & TryHackMe**: regular offensive security training
+> 🖥️ **Homelab**<br>
+> Self-hosted services in VMs and containers on Proxmox
+
+> 🌐 **Domain name**<br>
+> Administration of [akoudev.fr](https://akoudev.fr)
+
+> 🎯 **Hack The Box & TryHackMe**<br>
+> Regular offensive security training
 
 **Epitech**
 
