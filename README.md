@@ -1,17 +1,8 @@
-<h1 align="center">Valentin Da Silva</h1>
-
-<p align="center">
-  <b>Cybersecurity &amp; infrastructure student</b> · Epitech · Bachelor 2025–2028
-</p>
-
-<p align="center">
-  <a href="https://akoudev.fr"><img src="https://img.shields.io/badge/Portfolio-akoudev.fr-e10600?style=for-the-badge&labelColor=171a20" alt="Portfolio" /></a>
-  <a href="mailto:valentin.da-silva@epitech.eu"><img src="https://img.shields.io/badge/E--mail-get_in_touch-e10600?style=for-the-badge&labelColor=171a20" alt="E-mail" /></a>
-</p>
+# `$ ./profile`
 
 ```bash
 $ whoami
-> Valentin Da Silva — 2nd-year cybersecurity Bachelor student at Epitech Moulins
+Valentin Da Silva — 2nd-year cybersecurity Bachelor student at Epitech Moulins
 
 $ cat interests.txt
 > Linux · Networking · Cybersecurity · Infrastructure
@@ -19,6 +10,9 @@ $ cat interests.txt
 $ ls projects/
 > homelab/  cybersecurity/  web/
 ```
+
+🌐 [$ open https://akoudev.fr](https://akoudev.fr) · ✉️ [$ mail valentin.da-silva@epitech.eu](mailto:valentin.da-silva@epitech.eu)
+
 <p>
   <img src="https://img.shields.io/badge/Linux-171a20?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-171a20?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
