@@ -29,6 +29,7 @@ $ ls projects/
   <img src="https://img.shields.io/badge/PostgreSQL-171a20?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-171a20?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Cloudflare-171a20?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/n8n-171a20?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
 </p>
 
 ---
