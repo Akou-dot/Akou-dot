@@ -50,8 +50,11 @@ solving infrastructure problems and learning new technologies.
 > 🐍 **03 · Python & JavaScript**<br>
 > Tooling · Data processing · Machine learning · APIs
 
-> 🎨 **04 · HTML, CSS & Tailwind**<br>
+> 🎨 **04 · Web Development**<br>
 > Responsive web interfaces
+
+> ⚙️ **05 · n8n Automation**<br>
+> Workflow design · Task automation
 
 
 
